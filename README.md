@@ -4,13 +4,11 @@
 
 RateTheDayIPA is a simple iOS application that lets you rate your day and track your daily experiences through a visual chart. Record how each day feels and watch your personal history evolve over time.
 
-\<p align="center">
-&#x20; \<img width="180" alt="RateTheDayIPA Icon" src="[https://github.com/user-attachments/assets/9101c12d-57ba-41a5-a259-644e779fa46b](https://github.com/user-attachments/assets/9101c12d-57ba-41a5-a259-644e779fa46b)" />
-\</p>
+<img width="1000" height="1000" alt="icon" src="https://github.com/user-attachments/assets/e5c777e2-6e30-47f8-a085-a7784b70a654" />
 
 ## Preview
 
-\<p align="center">   \<img width="280" alt="RateTheDayIPA Screenshot" src="[https://github.com/user-attachments/assets/1805a7d2-6f89-4cff-94c8-3dd14b7def34](https://github.com/user-attachments/assets/1805a7d2-6f89-4cff-94c8-3dd14b7def34)" /> \</p>
+<img width="563" height="1218" alt="IMG_9019" src="https://github.com/user-attachments/assets/08d8400a-930f-4bd1-917d-261fa261af9f" />
 
 ## Features
 
